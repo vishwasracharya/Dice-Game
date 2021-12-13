@@ -1,5 +1,5 @@
 # Dice-Game
-<a href="https://github.com/vishwasracharya/Dice-Game/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishwasracharya/Dice-Game?color=blue"></a>
+<a href="https://github.com/vishwasracharya/Dice-Game/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishwasracharya/Dice-Game?color=blue"></a>
 <a href="https://github.com/vishwasracharya/Dice-Game/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishwasracharya/Dice-Game?color=orange"></a>
 
 A small project which I made during the learning of Web Development.
